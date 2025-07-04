@@ -47,7 +47,7 @@ Logout (berwarna merah) : Untuk keluar dari sesi admin dan kembali ke halaman lo
 
 e. Footer (Kaki Halaman)
 
-Di bagian bawah halaman terdapat informasi pembuat: © 2025 | Created by Nanda Oktapyana
+Di bagian bawah halaman terdapat informasi pembuat: © 2025 | Created by Triasti Meisya Dewi
 
 Ini menunjukkan hak cipta dan menegaskan bahwa seluruh sistem web ini adalah hasil karya pribadi dari pemilik, Triasti Meisya Dewi.
 
@@ -89,6 +89,7 @@ Tambah Artikel Tombol ini akan membawa admin ke formulir penambahan artikel baru
 
 <img width="650" alt="hal admin" src="https://github.com/user-attachments/assets/a90e448a-79ab-4ab3-a020-1854b62251c0" />
 
+
 3.Halaman Kelola Gallery (Kelola Gallery)
 
 Kelola Gallery Subjudul konten : Daftar Gallery
@@ -108,6 +109,7 @@ Tambah Gambar Ketika diklik, admin dapat mengunggah gambar baru ke dalam galeri.
 <img width="650" alt="ss gallery" src="https://github.com/user-attachments/assets/5db91b13-1dfe-4671-b040-a3b268469160" />
 Semua gambar pada contoh bertema kegiatan Himasi Cup, menunjukkan momen kebersamaan mahasiswa, baik dalam kegiatan formal maupun santai.
 
+
 4.Halaman Kelola About (About)
 
 Judul besar di bagian atas : Kelola Halaman About
@@ -116,7 +118,7 @@ Subjudul di bawahnya : Tentang Saya
 
 Halaman ini berfungsi untuk mengatur konten yang ditampilkan di halaman About Me pada bagian publik situs.
 
-Isi Tentang Saya Berisi paragraf deskriptif tentang Nanda Oktapyana. Isinya mencakup :
+Isi Tentang Saya Berisi paragraf deskriptif tentang Triasti Meisya Dewi. Isinya mencakup :
 
 a. Pengenalan diri sebagai mahasiswa Sistem Informasi.
 
@@ -141,9 +143,10 @@ b. Hapus: Untuk menghapus seluruh isi halaman “Tentang Saya”.
 
 <img width="650" alt="Screenshot 2025-07-04 233343" src="https://github.com/user-attachments/assets/1a39dc6a-28e2-4c37-a283-b09a2d405b8d" />
 
+
 5. Halaman Artikel Terbaru (Home)
 
-Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton. Di sebelah kanan halaman, terdapat "Daftar Artikel" yang menampilkan tiga artikel, yaitu :
+Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Triasti Meisya Dewi". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton. Di sebelah kanan halaman, terdapat "Daftar Artikel" yang menampilkan tiga artikel, yaitu :
 
 a. HIMASI CUP : Great Energy, New Synergy
 
@@ -169,7 +172,6 @@ c. Healing
 Foto-foto tersebut menampilkan kebersamaan dalam kegiatan, serta semangat dan kekompakan selama menjalani acara. Dengan galeri ini, pengunjung dapat melihat secara visual momen-momen penting yang telah menjadi bagian dari perjalanan hidup,akademik dan organisasi asti.
 
 <img width="650" alt="Screenshot 2025-07-04 233931" src="https://github.com/user-attachments/assets/82ae0479-26a5-457e-9afe-c3d1324c5ddc" />
-
 Fungsi halaman : Melihat koleksi foto-foto dokumentasi kegiatan kampus.
 
 7. Halaman About (Tentang Saya)
@@ -178,6 +180,7 @@ Halaman ini merupakan bagian dari website personal yang berjudul "About Me | Tri
 
 <img width="650" alt="Screenshot 2025-07-04 234001" src="https://github.com/user-attachments/assets/60c6527f-cf96-460b-bfc1-db492d9e5900" />
 Fungsi halaman : Membaca profil pribadi dan latar belakang Triasti Meisya Dewi.
+
 
 8. Halaman Login Administrator
 
