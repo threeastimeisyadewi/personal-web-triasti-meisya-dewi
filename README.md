@@ -179,6 +179,7 @@ Fungsi halaman : Melihat koleksi foto-foto dokumentasi kegiatan kampus.
 Halaman ini merupakan bagian dari website personal yang berjudul "About Me | Triasti Meisya Dewi". Di halaman ini, pengunjung dapat membaca profil lengkap dari pemilik website. Isi dari halaman ini memuat pengenalan diri, latar belakang pendidikan sebagai mahasiswa Sistem Informasi, serta ketertarikan pribadi dalam bidang teknologi, desain grafis, dan kegiatan organisasi. Dijelaskan juga kepribadian asti yang terbuka terhadap tantangan, senang belajar hal baru, dan aktif berpartisipasi dalam kegiatan kampus, terutama dalam kepanitiaan. Penulis juga menjelaskan nilai-nilai pribadi seperti pentingnya manajemen waktu, komunikasi, dan kolaborasi dalam tim. Paragraf ditutup dengan semangat dan dedikasi untuk terus berkembang, serta keyakinan bahwa setiap proses akan membawa dirinya lebih dekat pada masa depan yang diimpikan.
 
 <img width="650" alt="Screenshot 2025-07-04 234001" src="https://github.com/user-attachments/assets/60c6527f-cf96-460b-bfc1-db492d9e5900" />
+
 Fungsi halaman : Membaca profil pribadi dan latar belakang Triasti Meisya Dewi.
 
 
@@ -191,6 +192,7 @@ a. Username: Tempat memasukkan nama pengguna admin.
 b. Password: Tempat memasukkan kata sandi yang bersifat rahasia.
 
 <img width="650" alt="Screenshot 2025-07-04 234048" src="https://github.com/user-attachments/assets/8f1fb444-8bce-4797-a105-f040ab11f858" />
+
 Fungsi halaman : Masuk ke halaman login untuk admin.
 
 
