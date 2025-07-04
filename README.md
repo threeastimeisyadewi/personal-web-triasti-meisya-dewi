@@ -107,6 +107,7 @@ Tombol Tambah Gambar Terletak di kanan atas, berwarna biru dan bertuliskan :
 Tambah Gambar Ketika diklik, admin dapat mengunggah gambar baru ke dalam galeri. Contoh Gambar :
 
 <img width="650" alt="ss gallery" src="https://github.com/user-attachments/assets/5db91b13-1dfe-4671-b040-a3b268469160" />
+
 Semua gambar pada contoh bertema kegiatan Himasi Cup, menunjukkan momen kebersamaan mahasiswa, baik dalam kegiatan formal maupun santai.
 
 
@@ -157,6 +158,7 @@ c. Makrab : 3 Hari 2 Malam
 Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapnya.
 
 <img width="650" alt="Screenshot 2025-07-04 233547" src="https://github.com/user-attachments/assets/24ae5825-3e87-4380-b126-9ae79942f907" />
+
 Fungsi halaman : Melihat dan membaca artikel terbaru tentang kegiatan kampus.
 
 6. Halaman Galeri Foto (Gallery)
@@ -172,6 +174,7 @@ c. Healing
 Foto-foto tersebut menampilkan kebersamaan dalam kegiatan, serta semangat dan kekompakan selama menjalani acara. Dengan galeri ini, pengunjung dapat melihat secara visual momen-momen penting yang telah menjadi bagian dari perjalanan hidup,akademik dan organisasi asti.
 
 <img width="650" alt="Screenshot 2025-07-04 233931" src="https://github.com/user-attachments/assets/82ae0479-26a5-457e-9afe-c3d1324c5ddc" />
+
 Fungsi halaman : Melihat koleksi foto-foto dokumentasi kegiatan kampus.
 
 7. Halaman About (Tentang Saya)
